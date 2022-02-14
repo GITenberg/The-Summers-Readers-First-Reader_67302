@@ -1,0 +1,26 @@
+_repo: The-Summers-Readers-First-Reader_67302
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Summers, Maud
+    gutenberg_agent_id: '54204'
+    url: http://www.gutenberg.org/2009/agents/54204
+description: ''
+gutenberg_issued: '2022-02-02'
+identifiers:
+  gutenberg: '67302'
+language: en
+pgterms:marc905: 20200624073127summers
+pgterms:marc906: '1908'
+pgterms:marc907: US
+production_note: Chuck Greif, hekula03 and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: United States :Frank D. Beattys and Company,1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Summers Readers: First Reader'
+url: http://www.gutenberg.org/ebooks/67302
