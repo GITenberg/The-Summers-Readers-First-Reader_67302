@@ -1,11 +1,16 @@
 _repo: The-Summers-Readers-First-Reader_67302
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67302-h/images/cover.jpg
 creator:
   author:
     agent_name: Summers, Maud
     gutenberg_agent_id: '54204'
     url: http://www.gutenberg.org/2009/agents/54204
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67302#The-Summers-Readers-First-Reader
 gutenberg_issued: '2022-02-02'
 identifiers:
   gutenberg: '67302'
